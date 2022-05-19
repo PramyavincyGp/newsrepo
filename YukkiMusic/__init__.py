@@ -12,8 +12,7 @@ from YukkiMusic.core.dir import dirr
 from YukkiMusic.core.git import git
 from YukkiMusic.core.userbot import Userbot
 from YukkiMusic.misc import dbb, heroku, sudo
-from .assistant import (_get_assistant, get_as_names, get_assistant,
-                        save_assistant)
+
 from .logging import LOGGER
 
 # Directories
